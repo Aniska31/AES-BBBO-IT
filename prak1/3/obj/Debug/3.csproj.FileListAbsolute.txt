@@ -1,0 +1,8 @@
+D:\Documents\AES-BBBO\prak1\3\bin\Debug\3.exe.config
+D:\Documents\AES-BBBO\prak1\3\bin\Debug\3.exe
+D:\Documents\AES-BBBO\prak1\3\bin\Debug\3.pdb
+D:\Documents\AES-BBBO\prak1\3\obj\Debug\_3.Form1.resources
+D:\Documents\AES-BBBO\prak1\3\obj\Debug\_3.Properties.Resources.resources
+D:\Documents\AES-BBBO\prak1\3\obj\Debug\3.csproj.GenerateResource.cache
+D:\Documents\AES-BBBO\prak1\3\obj\Debug\3.exe
+D:\Documents\AES-BBBO\prak1\3\obj\Debug\3.pdb
