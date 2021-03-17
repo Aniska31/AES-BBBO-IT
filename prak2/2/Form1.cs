@@ -15,6 +15,12 @@ namespace _2
     public Form1()
     {
       InitializeComponent();
+      textBox2.Text += "Результаты работы программы Анисимова Е.С.";
+    }
+
+    private void button1_Click(object sender, EventArgs e)
+    {
+
     }
   }
 }
