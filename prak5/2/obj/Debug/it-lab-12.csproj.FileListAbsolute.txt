@@ -1,0 +1,13 @@
+C:\Users\Yaga\Downloads\Новая папка\it-lab-12\bin\Debug\it-lab-12.exe.config
+C:\Users\Yaga\Downloads\Новая папка\it-lab-12\bin\Debug\it-lab-12.exe
+C:\Users\Yaga\Downloads\Новая папка\it-lab-12\bin\Debug\it-lab-12.pdb
+C:\Users\Yaga\Downloads\Новая папка\it-lab-12\bin\Debug\MathNet.Numerics.dll
+C:\Users\Yaga\Downloads\Новая папка\it-lab-12\bin\Debug\MathNet.Numerics.xml
+C:\Users\Yaga\Downloads\Новая папка\it-lab-12\obj\Debug\it-lab-12.csprojAssemblyReference.cache
+C:\Users\Yaga\Downloads\Новая папка\it-lab-12\obj\Debug\it_lab_12.Form1.resources
+C:\Users\Yaga\Downloads\Новая папка\it-lab-12\obj\Debug\it_lab_12.Properties.Resources.resources
+C:\Users\Yaga\Downloads\Новая папка\it-lab-12\obj\Debug\it-lab-12.csproj.GenerateResource.cache
+C:\Users\Yaga\Downloads\Новая папка\it-lab-12\obj\Debug\it-lab-12.csproj.CoreCompileInputs.cache
+C:\Users\Yaga\Downloads\Новая папка\it-lab-12\obj\Debug\it-lab-12.csproj.CopyComplete
+C:\Users\Yaga\Downloads\Новая папка\it-lab-12\obj\Debug\it-lab-12.exe
+C:\Users\Yaga\Downloads\Новая папка\it-lab-12\obj\Debug\it-lab-12.pdb
